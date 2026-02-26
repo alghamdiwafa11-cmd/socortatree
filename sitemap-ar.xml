@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://socortatree.com/?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://socortatree.com/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://socortatree.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://socortatree.com/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://socortatree.com/?lang=ja"/>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/companion-planting?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/rainwater-harvesting?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/water-filtration?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/food-preservation?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/composting?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://socortatree.com/article/seed-starting?lang=ar</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
